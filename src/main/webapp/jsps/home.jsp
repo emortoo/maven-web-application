@@ -49,7 +49,7 @@ Team lead - Theo, Emma, Ben, Isaac and Patrick
 		<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Koftown Technology, 
+        Koftown Technology, 
 		Worcester, America
 		+1 732 688 5317,
 		koftowntech@gmail.com
