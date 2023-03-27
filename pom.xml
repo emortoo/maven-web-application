@@ -1,20 +1,18 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-	<modelVersion>1.0.0</modelVersion>
+	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>African Warriors</artifactId>
+	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	
-	<version>0.0.1-SNAPSHOT</version> 
+	<version>0.0.1</version>
 	
 	<name>maven-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
-
 	<organization>
-		<name>Koftown Technologies</name>
-		<url>http://koftown.com/</url>
+		<name>Landmark Technologies</name>
+		<url>http://landmarktechnologies.com/</url>
 	</organization>
 
 	<properties>
@@ -59,7 +57,7 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- compile dependencies -->
+		<!-- compile dependencies nnn-->
 
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -87,10 +85,12 @@
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
-			<version>4.1.1</version>
+			<version>3.1.0</version>
 			<scope>provided</scope>
-		</dependency>	
+		</dependency>
+		
 	</dependencies>
+	
 	<distributionManagement>
 		
 	    <repository>
@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>african-warriors</finalName>
+		<finalName>tesla</finalName>
 		
 		<plugins>
 			<plugin>
